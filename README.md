@@ -3,6 +3,8 @@
 	<div>
 		Package has been renamed to @fingerprintjs/fingerprintjs. Install @fingerprintjs/fingerprintjs to get updates.
 	</div>
+	<br>
+	<br>
 </p>
 
 <p align="center">
