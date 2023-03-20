@@ -1,3 +1,9 @@
+<p>
+	<h1 style="background-color:red;">This package has been deprecated</h1>
+	<div>
+		Package has been renamed to @fingerprintjs/fingerprintjs. Install @fingerprintjs/fingerprintjs to get updates.
+	</div>
+</p>
 
 <p align="center">
   <a href="https://github.com/fingerprintjs/fingerprintjs/actions?workflow=Lint+and+Test">
